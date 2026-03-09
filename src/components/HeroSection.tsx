@@ -49,7 +49,7 @@ const HeroSection = () => {
               View Work
             </a>
             <a
-              href="/Anantha_Narayanan_AI_ML_Resume.pdf"
+              href="/anantha-portfolio/Anantha_Narayanan_AI_ML_Resume.pdf"
               download
               className="px-7 py-3.5 rounded-full border border-border text-foreground text-sm hover:border-primary/40 transition-all duration-300 flex items-center gap-2"
               title="Download my latest AI & Machine Learning resume"
